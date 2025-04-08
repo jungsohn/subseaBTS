@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'subseaBTS'
+copyright = '2025, Global Tomoc'
+author = 'Dr.Sohn'
 
 release = '0.1'
 version = '0.1.0'
