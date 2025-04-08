@@ -8,7 +8,7 @@ Handbook for Subsea Engineers
 Welcome to **subseaBTS**, an open-source platform offering practical tools and documentation  
 for subsea engineers, researchers, and students. This site provides access to web-based applications for geotechnical design and analysis.  
 
-.. note::
+.. important::
 
    💡 **Special thanks** to the professional support from *JY Jung* in Myanmar.
 
