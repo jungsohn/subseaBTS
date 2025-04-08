@@ -20,6 +20,13 @@ for subsea engineers, researchers, and students. This site provides access to we
    :maxdepth: 2
 
    01_Subsea_Construction
+   02_Subsea_Systems
+   03_Pipelines_and_Soils
+   04_Risk_and_Reliability
+   05_Subsea_Control
+   06_Subsea_Integrity
+   07_Flow_Assurance
+   08_Riser_Systems
 
 ----
 
