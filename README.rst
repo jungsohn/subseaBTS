@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+.. image:: https://raw.githubusercontent.com/jungsohn/subseaBTS/main/docs/images/Subsea_Domains_and_Disciplines.png
+   :alt: subsea domains
+   :width: 600px
+
+
+Handbook for Subsea Engineers
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The "B"est Practices in "T"exas by Dr."S"ohn
+Link of the manual: https://subseabts.readthedocs.io/en/latest/
