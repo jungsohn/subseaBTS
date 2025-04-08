@@ -1,3 +1,6 @@
+.. image:: https://raw.githubusercontent.com/jungsohn/geoBTS/main/docs/images/Subsea_ENG_categories.png
+   :alt: subseaBTS Logo
+   :width: 100px
 
 =========================================================
 Handbook for Subsea Engineers
