@@ -1,6 +1,6 @@
 .. image:: https://raw.githubusercontent.com/jungsohn/subseaBTS/main/docs/images/Subsea_Domains_and_Disciplines.png
    :alt: subsea domains
-   :width: 200px
+   :width: 500px
 
 =========================================================
 Handbook for Subsea Engineers
