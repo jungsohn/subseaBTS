@@ -31,10 +31,7 @@ Protection methods:
 - **Coatings** (FBE, epoxy, polyurethane)
 - **Corrosion-resistant alloys** (CRA) such as Inconel, Duplex
 
-.. image:: _static/subsea_corrosion_modes.png
-   :width: 80%
-   :align: center
-   :alt: Subsea corrosion mechanisms
+
 
 Fracture Mechanics and Crack Growth
 ------------------------------------
