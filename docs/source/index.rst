@@ -1,5 +1,5 @@
-.. image:: https://raw.githubusercontent.com/jungsohn/geoBTS/main/docs/images/Subsea_ENG_categories.png
-   :alt: subseaBTS Logo
+.. image:: https://raw.githubusercontent.com/jungsohn/geoBTS/main/docs/images/Subsea_Domains_and_Disciplines.png
+   :alt: subsea domains
    :width: 100px
 
 =========================================================
