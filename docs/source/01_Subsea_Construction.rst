@@ -59,11 +59,6 @@ The deployment of subsea infrastructure heavily relies on a range of specialized
 Construction Workflow Overview
 -------------------------------
 
-.. image:: _static/subsea_construction_workflow.png
-   :width: 90%
-   :align: center
-   :alt: Subsea construction process
-
 The general workflow of subsea construction includes:
 
 1. Pre-lay survey and site preparation
