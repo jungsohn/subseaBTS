@@ -1,22 +1,34 @@
-Welcome to Lumache's documentation!
-===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+=========================================================
+Web App Library for Geotechnical Engineers
+=========================================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**"Best Practices in Texas" developed by Dr. Sohn**
 
-.. note::
+Welcome to **subseaBTS**, an open-source platform offering practical tools and documentation  
+for subsea engineers, researchers, and students. This site provides access to web-based applications for geotechnical design and analysis.  
 
-   This project is under active development.
+Special thanks to professional support from JY Jung in Myanmar.
 
-Contents
---------
+----
+
+**📂 Contents**
 
 .. toctree::
+   :maxdepth: 2
 
    01_Subsea_Construction
+
+----
+
+**🔎 About this site**
+
+🔐 Selected tools require authentication for secure access, but access is provided for free and non-commercial use.  
+
+🛠️ All content is technical in nature and maintained for the benefit of the geotechnical community.  
+
+📬 For questions or access requests, please contact: `Dr.Sohn <mailto:jung.jungrak.sohn@gmail.com>`_
+
+
+
    
