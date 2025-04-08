@@ -14,10 +14,7 @@ A typical subsea control system includes:
 - Master Control Station (MCS, topside)
 - Hydraulic Power Unit (HPU, topside or local)
 
-.. image:: _static/subsea_control_system_overview.png
-   :width: 85%
-   :align: center
-   :alt: Subsea control system layout
+
 
 Subsea Control Module (SCM)
 ----------------------------
