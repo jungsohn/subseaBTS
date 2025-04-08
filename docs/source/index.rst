@@ -1,6 +1,4 @@
-.. image:: https://raw.githubusercontent.com/jungsohn/subseaBTS/main/docs/images/Subsea_Domains_and_Disciplines.png
-   :alt: subsea domains
-   :width: 600
+
 
 =========================================================
 Handbook for Subsea Engineers
@@ -14,6 +12,10 @@ for subsea engineers, researchers, and students. This site provides access to we
 .. important::
 
    💡 **Special thanks** to the professional support from *JY Jung* in Myanmar.
+
+.. image:: https://raw.githubusercontent.com/jungsohn/subseaBTS/main/docs/images/Subsea_Domains_and_Disciplines.png
+   :alt: subsea domains
+   :width: 800
 
 ----
 
