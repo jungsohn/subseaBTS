@@ -1,6 +1,6 @@
 
 =========================================================
-Web App Library for Geotechnical Engineers
+Handbook for Subsea Engineers
 =========================================================
 
 **"Best Practices in Texas" developed by Dr. Sohn**
