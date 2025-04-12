@@ -1,4 +1,4 @@
-Subsea Construction, Inspection and Maintenance
+Subsea Construction and Maintenance
 ===============================================
 
 This section provides an overview of key activities, equipment, and operational considerations involved in the construction, inspection, and maintenance of subsea infrastructure. The processes are essential to ensure the integrity, safety, and long-term functionality of subsea production systems.
