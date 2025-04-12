@@ -9,9 +9,6 @@ News link:
 
 - https://www.reuters.com/business/energy/us-sets-new-safety-measures-deep-sea-oil-drillers-test-new-depths-2024-10-29/?utm_source=chatgpt.com
 
-Summary in Korean
-.................
-
 🛢️ 미국, 초고압 해양 시추 증가에 맞춰 새로운 안전 규정 발표 (Reuters, Oct 29, 2024)
 
 📌 핵심 내용 요약:
@@ -32,9 +29,6 @@ Summary in Korean
 Subsea Tie-back
 ----------------
 
-Summary in Korean
-.................
-
 📌 핵심 내용 요약:
 
 - 기존 인프라를 활용하여 신규 개발 비용을 절감함으로써 CAPEX를 최소화할 수 있음
@@ -48,9 +42,6 @@ Summary in Korean
 
 Electrification
 ---------------
-
-Summary in Korean
-.................
 
 📌 핵심 내용 요약:
 
