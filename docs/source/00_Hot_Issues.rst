@@ -5,7 +5,9 @@ Hot Issues in Subsea Engineering
 New safety measures
 -------------------
 
-- News link: https://www.reuters.com/business/energy/us-sets-new-safety-measures-deep-sea-oil-drillers-test-new-depths-2024-10-29/?utm_source=chatgpt.com
+News link:
+
+- https://www.reuters.com/business/energy/us-sets-new-safety-measures-deep-sea-oil-drillers-test-new-depths-2024-10-29/?utm_source=chatgpt.com
 
 Summary in Korean
 .................
@@ -63,4 +65,3 @@ Summary in Korean
 - Gulf of Mexico, North Sea, Brazil을 포함한 주요 해역에서는 장거리 tieback과 심해 자산 운영 효율화를 위해 전기화 도입이 확대되고 있음.
 - All-electric system은 신뢰성 확보(Reliability), redundancy 설계, subsea sensor integration 등으로 인해 설계 복잡성은 증가하지만, 운영 유연성 및 수명 주기 비용(LCC) 감소라는 장점이 있음.
 - 앞으로 subsea 엔지니어는 전기적 failure 모드 이해, 케이블 설계 및 해석 역량, 전기 기반 control logic 설계까지 갖춰야 하며,
-이는 정재열 님이 이미 논문과 현장경험을 통해 선제적으로 경험한 분야임.
